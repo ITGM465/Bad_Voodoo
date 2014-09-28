@@ -1,0 +1,7 @@
+p.37-52, 155-172
+
+- scrum :: a management-focused methodology that is flexible enough to be used in a wide variety of game development environments. easy to implement b/c it requieres no formal training 
+::involves creating subsets of self-directed teams within larger project team and are crossfunctional and small.
+
+- agile :: agile development is a set of methodologies that are focused on realizing true product value through iteration and feedback
+:: emphasizes building an initial iteration of the gme that contains very basic functionality and then building on this functionality  throughout product iterations until the game is completed 
